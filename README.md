@@ -1,3 +1,6 @@
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/dd8d06a6-af2d-41d7-8dcb-9be31ae069b3">
+
+
 # broadcastMid
 broadcast on bilibili to catch the danmu into Midjourney on Website
 
