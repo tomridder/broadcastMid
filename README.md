@@ -7,6 +7,8 @@ broadcast on bilibili to catch the danmu into Midjourney on Website
 抓取 bilibili 直播间 的 弹幕 作为midjourney 绘画的提示词 并且网页直播
 ## 如何使用
 1.用 cmd 在本地电脑 8888端口 启动 chrome 窗口
+cd "C:\Program Files\Google\Chrome\Application"
+
 chrome.exe --remote-debugging-port=8888
 
 2.chrome 打开两个tab 一个是bilibili的网页直播窗口 live.bilibili.com/xxxx , 一个 tab 是  http://154.40.47.174:3003/ （一个 AI 绘画窗口）
