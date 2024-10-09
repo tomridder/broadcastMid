@@ -4,7 +4,7 @@
 
 # broadcastMid
 broadcast on bilibili to catch the danmu into Midjourney on Website
-
+抓取 bilibili 直播间 的 弹幕 作为midjourney 绘画的提示词 并且网页直播
 ## 如何使用
 1.用 cmd 在本地电脑 8888端口 启动 chrome 窗口
 
