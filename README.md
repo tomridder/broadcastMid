@@ -11,7 +11,7 @@ cd "C:\Program Files\Google\Chrome\Application"
 
 chrome.exe --remote-debugging-port=8888
 
-2.chrome 打开两个tab 一个是bilibili的网页直播窗口 live.bilibili.com/xxxx , 一个 tab 是  http://154.40.47.174:3003/ （一个 AI 绘画窗口）
+2.chrome 打开两个tab 一个是bilibili的网页直播窗口 live.bilibili.com/xxxx , 一个 tab 是  http://23.224.49.57:3003/ （一个 AI 绘画窗口）
 
 3.启动本地 py 脚本
 
